@@ -1,6 +1,7 @@
 [package]
 name = "ipfy-public-ip"
 version = "0.1.0"
+license = "MIT"
 authors = ["Surendra Verma github@surrenderoz"]
 description = "this package uses ipify to get the public ip and return the ipv4 ip address of the request" 
 homepage = "https://github.com/surrenderoz/ipify-public-ip.git"
