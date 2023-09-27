@@ -1,0 +1,17 @@
+[package]
+name = "ipfy-public-ip"
+version = "0.1.0"
+authors = ["Surendra Verma github@surrenderoz"]
+description = "this package uses ipify to get the public ip and return the ipv4 ip address of the request" 
+homepage = "https://github.com/surrenderoz/ipify-public-ip.git"
+repository = "https://github.com/surrenderoz/ipify-public-ip.git"
+categories = ["network-programming"]
+keywords = ["ipfinder", "ipaddress", "ip", "publicip", "ip-address", "ipify"]
+
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = {version = "0.11.19", features = ["json"]}
+tokio ={ version = "1.31.0", features = ["full"]}
