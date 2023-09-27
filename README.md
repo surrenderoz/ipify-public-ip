@@ -14,7 +14,7 @@ In `Cargo.toml`:
 
 ```toml
 [dependencies]
-ipfy_public_ip = "0.1.0"
+ipfy_public_ip = "0.1.1"
 ```
 
 And in your crate root:
