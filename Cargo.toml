@@ -6,7 +6,7 @@ description = "this package uses ipify to get the public ip and return the ipv4 
 homepage = "https://github.com/surrenderoz/ipify-public-ip.git"
 repository = "https://github.com/surrenderoz/ipify-public-ip.git"
 categories = ["network-programming"]
-keywords = ["ipfinder", "ipaddress", "ip", "publicip", "ip-address", "ipify"]
+keywords = ["ipfinder",  "ip", "publicip", "ip-address", "ipify"]
 
 edition = "2021"
 
